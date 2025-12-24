@@ -1,4 +1,3 @@
-print("Hello World")
 print("欢迎使用Python计算机！")
 while True:
     try:
